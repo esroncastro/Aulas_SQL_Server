@@ -1,0 +1,29 @@
+Documentação oficial de tabelas:
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-table-transact-sql?view=sql-server-2017
+
+Create table:
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-table-transact-sql?view=sql-server-2017
+https://www.w3schools.com/sql/sql_create_table.asp
+
+Drop table:
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/drop-table-transact-sql?view=sql-server-2017
+https://www.w3schools.com/sql/sql_drop_table.asp
+
+Alter table:
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/alter-table-transact-sql?view=sql-server-2017
+https://www.w3schools.com/sql/sql_alter.asp
+
+Truncate table:
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-2017
+http://t-sql.com.br/diferencas-entre-delete-e-truncate/
+
+Datatype:
+https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-2017
+
+Primary key:
+https://docs.microsoft.com/pt-br/sql/relational-databases/tables/create-primary-keys?view=sql-server-2017
+https://www.w3schools.com/sql/sql_primarykey.asp
+
+Foreign key:
+https://docs.microsoft.com/pt-br/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-2017
+https://www.w3schools.com/sql/sql_foreignkey.asp

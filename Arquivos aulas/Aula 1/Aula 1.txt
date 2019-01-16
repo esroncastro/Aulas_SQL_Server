@@ -1,0 +1,8 @@
+Download SQL Server Developer:
+https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+
+Download SQL Server Management Studio (SSMS):
+https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
+
+Acesso ao Configuration Manager (através do executar):
+SQLServerManager13.msc ou SQLServerManager14.msc
